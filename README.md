@@ -32,18 +32,18 @@ Con valores faltantes, sentinels, outliers y problemas de calidad diseñados par
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/telecom-project/blob/main/connectaTel.ipynb)
-https://colab.research.google.com/drive/1DiRnd0dprZt87z92oQOnnh8cZuxfsXY0
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/Project_NovaRetail_.ipynb)
+
 
 O:
 
-1. Abre el archivo `connectaTel.ipynb` en GitHub
+1. Abre el archivo `Project_NovaRetail_.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/connectaTel.ipynb`
+1. Abre `notebooks/Project_NovaRetail_.ipynb`
 2. Ejecuta las celdas en orden
-3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
+3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda).
 
 
