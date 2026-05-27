@@ -21,7 +21,7 @@ Con valores faltantes, sentinels, outliers y problemas de calidad diseñados par
   ## 🧠 Objetivo del análisis
 
 - Preparar datos y documentar supuestos
-- Limpieza  básica (reemplazarsentinels, convertir fechas, impitar o marcar NA)
+- Limpieza  básica 
 - Definir variables relevantes y reglas del análisis
 - Heatmap para patrones globales y Scatterplots
 - Calcular correlaciones adecuadas (Pearson/Spearma, Punto biserial, V de Cramér)
