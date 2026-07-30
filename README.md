@@ -1,6 +1,6 @@
-### Explorando factores de comportamiento en NovaRetail
 
-Este repositorio contiene el análisis del caso.
+# Exploración de  factores de comportamiento en NovaRetail
+
 
  ## 🎯 Objetivo General
 
@@ -8,9 +8,7 @@ NovaRetail+ es una plataforma de comercio electrónico en Latinoamérica con mil
 
 ¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?
 
-
-
-Trabajaremos con un dataset de 15,000 restiros: 'novaretail_comportamiento_clientes_2024.csv'. <br>
+Trabajaremos con un dataset de 15,000 registros <br>
 Con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales.
 
 ## 📂 Contenido del repositorio
